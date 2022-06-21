@@ -106,7 +106,7 @@ Each group must produce a written report detailing their project.  The report sh
 
 **Data Sources** – What data are you using & where did they come from? What type of data are you working with (raster, vector, tabular)?  What’s the scale & resolution, is these limiting factors?  Are there any issues or special considerations with this data set?  A table might be a useful way to help summarize this section concisely.
 
-**Methods** – What did you do? Why did you do it?  Explain the analysis steps you took and justify the choices you made in your analysis.  You can rely heavily on your flow charts for explaining the methods.  You don’t need to detail every little step, be brief but throughout.
+**Methods** – What did you do? Why did you do it?  Explain the analysis steps you took and justify the choices you made in your analysis.  You can rely heavily on your flow charts for explaining the methods.  You don’t need to detail every little step, be brief but thorough.
 * Don’t Say things like: “We doubled clicked the buffer tool and set Layer A as the input. We set the buffer distance to 1000 meters and clicked dissolve all.  We set the output name as Layer B and hit run.  Then we merged Layer B with Layer C naming it Layer D”
 * Instead Say: “We buffered Layer A by 1000 m because (justification). Then we merged it with Layer C”
 * **Flowchart** is best included here!
